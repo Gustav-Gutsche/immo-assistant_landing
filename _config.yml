@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Immo Assistant
-    description                           : Über 50 Kennzahlen schnell berechnet. 
+    description                           : Mit Immo Assistant stehen Ihnen schnelle Berechnungen für mehr als 50 essenzielle Immobilien-Kennzahlen zur Verfügung.
     fontawesome_icon_name                 : house
     
   - title                                 : Updates
@@ -65,11 +65,11 @@ features                                  :
 
   - title                                 : Keine Werbung
     description                           : Immo Assistant bietet ein werbefreies Nutzererlebnis für ungestörte Immobilienberechnungen.
-    fontawesome_icon_name                 : rectangle-ad
+    fontawesome_icon_name                 : ban
 
   - title                                 : Keine Abonnements und In-App-Käufe
     description                           : Immo Assistant bietet vollständigen Funktionsumfang ohne Abonnements und In-App-Käufe – ein echter Mehrwert für Ihre Immobilienberechnungen.
-    fontawesome_icon_name                 : ban
+    fontawesome_icon_name                 : hand-holding-dollar
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
