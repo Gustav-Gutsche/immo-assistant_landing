@@ -11,7 +11,7 @@ presskit_download_link                    : #/presskit.zip                      
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : ImmoAssistant
+app_name                                  : Immo Assistant
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Immobilienkennzahlen schnell und einfach berechnen.
 
@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Immo Assistant
     description                           : Mit Immo Assistant stehen Ihnen schnelle Berechnungen für mehr als 50 essenzielle Immobilien-Kennzahlen zur Verfügung.
-    fontawesome_icon_name                 : house
+    fontawesome_icon_name                 : home
 
   - title                                 : Tilgungsrechner
     description                           : Zusätzlich bietet Immo Assistant einen praktischen Tilgungsrechner, um Ihre Finanzierungspläne effizient zu gestalten.
@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Quick Calculation
     description                           : Immo Assistant verfügt über einen Quick Calculation Modus, der es ermöglicht, die wichtigsten Kennzahlen für Immobilien schnell und effizient zu berechnen.
-    fontawesome_icon_name                 : forward-fast
+    fontawesome_icon_name                 : fast-forward
 
   - title                                 : iPhone, iPad und Mac
     description                           : Immo Assistant ist für alle Ihre Geräte verfügbar.
@@ -57,7 +57,7 @@ features                                  :
     
   - title                                 : Feedback
     description                           : Immo Assistant bietet eine direkte Feedback-Option, durch die Nutzer aktiv neue Funktionen vorschlagen und so die App-Gestaltung mitgestalten können.
-    fontawesome_icon_name                 : message
+    fontawesome_icon_name                 : envelope
   
   - title                                 : Datenschutz
     description                           : Immo Assistant schützt Ihre Privatsphäre – keine Datensammlung von Nutzern.
@@ -69,7 +69,7 @@ features                                  :
 
   - title                                 : Keine Abonnements und In-App-Käufe
     description                           : Immo Assistant bietet vollständigen Funktionsumfang ohne Abonnements und In-App-Käufe – ein echter Mehrwert für Ihre Immobilienberechnungen.
-    fontawesome_icon_name                 : hand-holding-dollar
+    fontawesome_icon_name                 : money-bill-wave
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
