@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Gustav Gutsche
 your_link                                 : 
-your_city                                 : Mainz
+your_city                                 : 
 email_address                             : Gustav_Gutsche@proton.me
 facebook_username                         :                                          
 instagram_username                        : 
@@ -129,9 +129,9 @@ sass:
 
 # Exclude these files from your production _site
 exclude:
-  - LICENSE
-  - README.md
-  - CNAME
+  # - LICENSE
+  # - README.md
+  # - CNAME
 
 collections:
   pages:
