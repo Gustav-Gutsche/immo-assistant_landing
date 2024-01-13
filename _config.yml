@@ -38,22 +38,22 @@ features                                  :
   - title                                 : Immo Assistant
     description                           : Mit Immo Assistant stehen Ihnen schnelle Berechnungen für mehr als 50 essenzielle Immobilien-Kennzahlen zur Verfügung.
     fontawesome_icon_name                 : house
-    
-  - title                                 : Updates
-    description                           : Immo Assistant entwickelt sich ständig weiter, um Ihnen regelmäßig innovative und nützliche neue Funktionen für Ihre Immobilienberechnungen zu bieten.
-    fontawesome_icon_name                 : star
-    
+
   - title                                 : Tilgungsrechner
     description                           : Zusätzlich bietet Immo Assistant einen praktischen Tilgungsrechner, um Ihre Finanzierungspläne effizient zu gestalten.
     fontawesome_icon_name                 : chart-line
 
-  - title                                 : iPhone, iPad und Mac
-    description                           : Immo Assistant ist für alle Ihre Geräte verfügbar.
-    fontawesome_icon_name                 : desktop
-
   - title                                 : Quick Calculation
     description                           : Immo Assistant verfügt über einen Quick Calculation Modus, der es ermöglicht, die wichtigsten Kennzahlen für Immobilien schnell und effizient zu berechnen.
     fontawesome_icon_name                 : forward-fast
+
+  - title                                 : iPhone, iPad und Mac
+    description                           : Immo Assistant ist für alle Ihre Geräte verfügbar.
+    fontawesome_icon_name                 : desktop
+    
+  - title                                 : Updates
+    description                           : Immo Assistant entwickelt sich ständig weiter, um Ihnen regelmäßig innovative und nützliche neue Funktionen für Ihre Immobilienberechnungen zu bieten.
+    fontawesome_icon_name                 : star
     
   - title                                 : Feedback
     description                           : Immo Assistant bietet eine direkte Feedback-Option, durch die Nutzer aktiv neue Funktionen vorschlagen und so die App-Gestaltung mitgestalten können.
