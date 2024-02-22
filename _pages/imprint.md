@@ -1,3 +1,10 @@
+---
+layout: page
+title: Imprint
+include_in_header: false
+---
+
+
 Impressum
 =========
 
