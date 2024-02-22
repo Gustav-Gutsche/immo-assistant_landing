@@ -8,7 +8,6 @@ Wormser Straße 69A
 Kontakt
 -------
 
-Telefon: \[Telefonnummer\]  
 E-Mail: Gustav\_Gutsche@proton.me
 
 Umsatzsteuer-ID
